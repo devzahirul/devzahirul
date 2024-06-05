@@ -1,10 +1,15 @@
-# 👋 Hi, I’m Md. Zahirul Islam, 20+ swiftUI APP Developed 
-I have 10 years of experience as a Mobile Application Developer.
+# 👋 Hi, I’m Md. Zahirul Islam, 20+ swiftUI APP Developed
+  - 10 years of experience as a Mobile Application Developer.
+  - Unit Testing & Clean code Lover.
+  - SwiftUI fan
 
 ## 👀 I’m interested in
 - iOS
 - SwiftUI
 - Jetpack Compose
+- Bug fixing
+- Complex app developmemnt
+- Clean documented code with Unit & UI Testing
 
 ## 📫 Apps:
 
