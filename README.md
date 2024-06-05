@@ -29,6 +29,25 @@ I have 10 years of experience as a Mobile Application Developer.
 
 [Website link](https://davidani.com/)
 
+# 1. Adora
+  - SwiftUI
+  - Core Data
+  - Payment
+  - E-commerce
+  - 
+<p>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/12/80/8d128066-736d-5ddf-6dca-8f0cc41d4236/2db89795-622d-4562-9669-c45630716553_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2023-12-26_at_16.00.03.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/cb/34/7acb34c1-2e41-c693-1e73-8099f397fa8f/1bacd53a-1024-415d-83b5-1608f9e45e97_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2023-12-26_at_15.59.39.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ca/04/20/ca042025-3809-3a38-014a-9689406eb4c0/f9968f13-0e23-46dc-9a6f-219953adae3f_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2023-12-26_at_15.59.33.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b9/58/9a/b9589a1c-9a9d-5925-a7f6-86bf51fa31d2/7942a3d1-e856-4121-8df9-6eb48b36f4a0_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2023-12-26_at_15.59.29.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c1/fe/1c/c1fe1cae-b5af-e7b0-61ae-519af638f6a3/68cf9fa5-185a-4b33-a874-78f436deb3af_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2023-12-26_at_15.59.21.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/86/1536868f-8a0d-d998-0be9-97a53b4c7750/5a1a61b4-fad5-47af-bd0d-9a0515feba56_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2024-01-02_at_11.53.59.png/230x0w.webp" width="230">
+</p>
+[AppStore Link](https://apps.apple.com/us/app/j-nna/id6474167437?platform=iphone)
+
+[Website link](https://adorawholesale.com/)
+
+
 # 2.Mello USA
   - SwiftUI
   - Core Data
@@ -48,10 +67,10 @@ I have 10 years of experience as a Mobile Application Developer.
 
 [AppStore Link](https://apps.apple.com/us/app/mello-usa/id6451467071?platform=iphone)
 
-[Website link](https://mellousa.com/)
+[Website link](https://shopjnna.com/)
 
 
-# 2. Wholesale Scan App
+# 3. Wholesale Scan App
    -  Scan barcode, qrcode
    -  Gemini API to scan Business cart
    -  print PDF
