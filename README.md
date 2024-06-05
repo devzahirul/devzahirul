@@ -46,7 +46,31 @@
 
 [AppStore Link](https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161?platform=iphone)
 
+# 2. Alloy Sports Betting Companion
+  - SwiftUI
+  - Subscription
+  - CI/CD
+  - Github Action
+  - Swiftlint
+  - MVVM
+  - Module package
+  - Unit Testing
+  - UI Testing
+  - Snapshot testing 
+<p>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/1d/90/0a1d9073-90b7-900f-5aa9-065bffea3a23/7ddbdebb-20b4-4edb-8767-816a40499498_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_01.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/73/46/4d/73464da3-5941-a1cb-57d2-670d796f314b/3974fe7f-9cbd-4fe3-b01c-bc28136de5df_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_02.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/a9/05/70a90589-46d1-dbcf-c9e0-fca12f2b9128/4304c4c7-cf94-4035-afa3-71954786b0d8_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_03.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ce/3f/17/ce3f171f-7715-5ec3-09bc-1560cffca4e6/bcb177f6-a2b0-4a15-acb6-49dfca847b48_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_04.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0f/9d/b5/0f9db569-5d17-c558-4d63-ca5b05c99120/08665dcc-a246-40d8-8182-3cfe055dff1a_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_05.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/57/ac/ab/57acab15-d019-b42c-f80d-7af0c59a4693/a249b733-ca0a-4781-ab4b-3aa3be9f2f4e_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_06.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2a/21/3c/2a213cb9-da53-60b0-8241-c0eb512bd7ec/3b359cad-8671-43bd-93c5-12d830d4502d_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_07.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6e/91/db/6e91db3c-81fd-0042-65d9-5ab89980bd06/d4c77c93-7419-4b56-a5dd-eb0a74e1072a_Fanalysts_Inc_Alloy_Sports_iOS_US_Screenshot_Mocks_230821_08.png/230x0w.webp" width="230">
 
+
+</p>
+
+[AppStore Link](https://apps.apple.com/au/app/alloy-sports-betting-companion/id1624936582)
 
 # 2. Davi and Dani - Wholesale Shop
   - SwiftUI
