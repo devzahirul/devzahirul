@@ -8,7 +8,42 @@ I have 10 years of experience as a Mobile Application Developer.
 
 ## 📫 Apps:
 
-# 1. Davi and Dani - Wholesale Shop
+# 1. AISocial-AI Assistant-AI Chat
+  - ChatGPT API
+  - Chat Message
+  - PDF summary
+  - SwiftUI
+  - Core Data
+  - Subscription
+  - ShareExtebsion
+  - Widgets
+  - Firebase
+  - CI/CD
+  - Github Action
+  - Swiftlint
+  - MVVM
+  - Module package
+  - Unit Testing
+  - UI Testing
+  - Snapshot testing 
+<p>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleVideo112/v4/58/84/1e/58841ef6-bd7d-9c1c-46ce-1cce25efe927/Jobd16859f6-6466-4a14-a103-55527db39fac-163970506-PreviewImage_preview_image_nonvideo_sdr-Time1709367678631.png/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/60/ea/6660ea99-32da-21d8-7fa2-ab913ab8cd3d/963cc510-4a21-4a86-9b19-088543b7b300_4.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/d7/aa/0fd7aad4-50e3-1c42-88e3-f8e4e7450a0b/7d3ddbfa-b1ef-4eae-a915-195e958d4742_5.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/86/23/f38623e5-2e06-9a53-0d06-659e3f8759f6/0a7f0877-d1bd-4a66-9013-a663fb2e04b8_6.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/21/8c/ee218c8b-bae9-123b-0cf2-9fae0a37f111/86ac6ab3-4bf3-40eb-9eed-0e8406ef33db_8.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/4d/19/b34d19b8-ea4d-65e0-2013-0a2f060c35a7/d92af775-c73d-444e-9db0-c8c51778d665_1.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/fd/8c/77fd8c00-2e2f-952e-f491-19d09d29c521/c64f58b5-7a06-480f-837c-4c6ff4ba6800_2.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/c5/10/d4c51056-6204-6eb5-7470-e2165c7457ad/8b4d48b4-dc21-40bc-81f0-8ba155d29bc7_3.jpeg/230x0w.webp" width="230">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/e1/53/a6e1530b-0b4c-cbf4-83f7-7573260dbc62/2129d14c-fdc3-4556-8603-d9c4cb898f08_9.jpeg/230x0w.webp" width="230">
+
+</p>
+
+[AppStore Link](https://apps.apple.com/us/app/aisocial-ai-assistant-ai-chat/id6446788161?platform=iphone)
+
+
+
+# 2. Davi and Dani - Wholesale Shop
   - SwiftUI
   - Core Data
   - Payment
@@ -29,7 +64,7 @@ I have 10 years of experience as a Mobile Application Developer.
 
 [Website link](https://davidani.com/)
 
-# 1. Adora
+# 3. Adora
   - SwiftUI
   - Core Data
   - Payment
@@ -47,8 +82,23 @@ I have 10 years of experience as a Mobile Application Developer.
 
 [Website link](https://adorawholesale.com/)
 
+# 4. StylePick 
+  - SwiftUI
+  - Core Data
+  - Payment(Stripe)
+  - E-commerce
+<p>
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/dee4fb3b-9694-4eb3-8b66-c7dc5ca5f573" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/723d7b0c-3361-481a-938d-02ed91b17854" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/6d856593-48bd-4e5c-990c-3abd9b65c952" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/543ed753-c775-4c08-98ff-34f11ccb4650" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/c54ba5f4-c54a-4e56-bd5a-0d132e728fad" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/d1636d24-0e33-4a38-92c2-9ba6778d07f8" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/9802d8c8-0247-45d0-8700-e21afbf77089" width="230">
+<img src="https://github.com/devzahirul/devzahirul/assets/10805452/59607b19-0231-49a9-a5e1-39a507e8bcc5" width="230">
+</p>
 
-# 2.Mello USA
+# 5.Mello USA
   - SwiftUI
   - Core Data
   - Payment(Stripe)
@@ -70,7 +120,7 @@ I have 10 years of experience as a Mobile Application Developer.
 [Website link](https://shopjnna.com/)
 
 
-# 3. Wholesale Scan App
+# 6. Wholesale Scan App
    -  Scan barcode, qrcode
    -  Gemini API to scan Business cart
    -  print PDF
