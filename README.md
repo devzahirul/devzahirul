@@ -43,7 +43,7 @@ I have 10 years of experience as a Mobile Application Developer.
   <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c1/fe/1c/c1fe1cae-b5af-e7b0-61ae-519af638f6a3/68cf9fa5-185a-4b33-a874-78f436deb3af_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2023-12-26_at_15.59.21.png/230x0w.webp" width="230">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/36/86/1536868f-8a0d-d998-0be9-97a53b4c7750/5a1a61b4-fad5-47af-bd0d-9a0515feba56_Simulator_Screenshot_-_iPhone_14_Pro_Max_-_2024-01-02_at_11.53.59.png/230x0w.webp" width="230">
 </p>
-[AppStore Link](https://apps.apple.com/us/app/j-nna/id6474167437?platform=iphone)
+[AppStore Link](https://apps.apple.com/us/app/adora-los-angeles/id6470774390?platform=iphone)
 
 [Website link](https://adorawholesale.com/)
 
