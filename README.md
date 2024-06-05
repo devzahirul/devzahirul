@@ -29,6 +29,28 @@ I have 10 years of experience as a Mobile Application Developer.
 
 [Website link](https://davidani.com/)
 
+# 2.Mello USA
+  - SwiftUI
+  - Core Data
+  - Payment(Stripe)
+  - E-commerce
+
+<!-- Images -->
+<p>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3f/b8/05/3fb8052b-fa97-a0eb-7436-a2a751c22d8d/44123773-82b4-4751-b9f2-b84b81613b70_1.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/86/27/478627ce-8c8d-fc0a-5cc4-35c3fddb01f2/b1c0b499-e01f-4130-8cbf-bcfccdf1d4e4_2.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/5a/77/4e5a77e0-87c1-089b-9e48-9629ec934603/2c459324-4cfd-4275-a45d-90d83357378d_3.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/29/f8/6129f8ff-baaa-06a3-dcdb-e0907ce2d311/90ec608f-fc14-4eee-80a1-2f98266597f4_4.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/76/1d/c0761d5a-0971-554c-dbe4-2c8cfcd8f47a/916a2722-1b51-4bae-a766-939c9006ac67_5.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/59/56/fc/5956fc3f-bf61-bd3f-9388-88c9ee928d7d/09e1099a-88bb-41dd-b06d-394fcaa4d0a5_6.png/230x0w.webp" width="230">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/76/68/ad/7668ad01-485c-4c76-4e01-b8fd7b8493c1/ab915d07-17df-4cda-85b4-fd4a17c8d48d_7.png/230x0w.webp" width="230">
+</p>
+
+[AppStore Link](https://apps.apple.com/us/app/mello-usa/id6451467071?platform=iphone)
+
+[Website link](https://mellousa.com/)
+
+
 # 2. Wholesale Scan App
    -  Scan barcode, qrcode
    -  Gemini API to scan Business cart
