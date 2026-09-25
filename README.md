@@ -1,11 +1,11 @@
-# Md. Zahirul Islam — Senior Mobile Engineer (iOS · Android · KMP)
+# Md. Zahirul Islam — Senior Mobile Engineer (iOS · Android)
 
 I've spent 10 years shipping native mobile apps. I take products from an empty repo to the App Store and Google Play, and I own the architecture, testing, CI/CD and release work along the way.
 Currently at **[@UgoRound](https://github.com/UgoRound)** · Dhaka, BD · Open to senior / lead mobile roles · [LinkedIn](https://www.linkedin.com/in/islam-md-zahirul-82183889/)
 
 **iOS:** Swift 6 · SwiftUI · UIKit · Swift Concurrency · Combine · Core Data / SwiftData · SPM modularization · WidgetKit · Extensions · StoreKit
 **Android:** Kotlin · Jetpack Compose · Coroutines / Flow · Hilt · Room · WorkManager · multi-module Gradle
-**Cross-platform:** Kotlin Multiplatform · Compose Multiplatform · Flutter
+**Cross-platform:** Flutter
 **Quality & delivery:** XCTest / swift-testing · JUnit · snapshot & UI tests · TDD · GitHub Actions · Fastlane · SwiftLint / ktlint
 
 ---
@@ -17,8 +17,6 @@ Each of these repos has a README, tests and CI. They show how I design systems, 
 | Project | Platforms | What it demonstrates |
 |---|---|---|
 | **[RTLS: Offline-first Location Sync SDK](https://github.com/devzahirul/Offline_first_location_sync_Mobile)** | iOS · Android · Flutter · RN | Modular telemetry SDK: GPS collection, an offline queue that loses no data, WebSocket real-time sync, pick-only-what-you-need modules |
-| **[SmartBooking SDK (KMP + AI)](https://github.com/devzahirul/KMP_AI-PoweredSmartBookingSDK)** | Android · iOS · KMP | One shared Kotlin core: natural-language booking parsing, conflict resolution, calendar sync, reminders |
-| **[Netflix KMP](https://github.com/devzahirul/Netflix_KMP)** | Android · iOS | Kotlin Multiplatform app with a shared domain/data layer and a heavy test suite |
 | **[SwiftHilt](https://github.com/devzahirul/swift_hilt)** | Swift | Dependency injection library that is DAG-aware and inspired by Hilt: scopes, graph validation, test overrides |
 | **[AsyncSwiftyNetworking](https://github.com/devzahirul/AsyncSwiftyNetworking)** | Swift | async/await networking layer: typed endpoints, retries, interceptors, fully tested |
 | **[PlaceAlertMe](https://github.com/devzahirul/PlaceAlertMe)** | iOS | Background geofencing that still delivers alerts after the app is killed |
