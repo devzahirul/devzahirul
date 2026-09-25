@@ -27,6 +27,26 @@ Each of these repos has a README, tests and CI. They show how I design systems, 
 
 ---
 
+## Open-source contributions
+
+These PRs were merged upstream after review by the maintainers.
+
+**[Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios)** (Mozilla)
+- [#34675](https://github.com/mozilla-mobile/firefox-ios/pull/34675) **Memory leak:** fixed a `BoolSetting` retain cycle that leaked `AppSettingsTableViewController`
+- [#34569](https://github.com/mozilla-mobile/firefox-ios/pull/34569) **Widgets:** the widget now waits for tab restoration before it closes private tabs, which fixes a state race
+- [#34809](https://github.com/mozilla-mobile/firefox-ios/pull/34809) **Dead code:** removed unused `TabManager` code that Periphery flagged
+- [#34568](https://github.com/mozilla-mobile/firefox-ios/pull/34568) **Logging:** separated how fatal and non-fatal logs are reported
+- [#34553](https://github.com/mozilla-mobile/firefox-ios/pull/34553) **Tests:** telemetry tests now compare objects by identity (`===`) instead of equality
+
+**[Kingfisher](https://github.com/onevcat/Kingfisher)** (Swift's most popular image downloading and caching library)
+- [#2539](https://github.com/onevcat/Kingfisher/pull/2539) **Concurrency:** fixed a data race in `SessionDataTask.forceCancel()`
+- [#2541](https://github.com/onevcat/Kingfisher/pull/2541) **Concurrency:** fixed a data race on `RetrievingContext.propagationErrors`
+- [#2561](https://github.com/onevcat/Kingfisher/pull/2561) **Memory:** the image view is now released while its download is still in progress
+- [#2556](https://github.com/onevcat/Kingfisher/pull/2556) **Performance:** disk cache lookups now take a single metadata syscall
+- [#2540](https://github.com/onevcat/Kingfisher/pull/2540) **Bug fix:** disk caching now works when the image URL path contains `@`
+
+---
+
 ## Shipped to production
 
 Apps I built and shipped for clients and employers:
