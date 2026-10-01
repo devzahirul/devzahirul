@@ -14,15 +14,18 @@ Currently at **[@UgoRound](https://github.com/UgoRound)** · Dhaka, BD · Open t
 
 Each of these repos has a README, tests and CI. They show how I design systems, not only screens.
 
-| Project | Platforms | What it demonstrates |
-|---|---|---|
-| **[NovaShop: Offline-first E-commerce](https://github.com/devzahirul/NovaShop-iOS)** | iOS · Supabase | 18-module SwiftUI app in Swift 6 strict concurrency. Local-first cart with state-based sync and reconciliation, a transactional server checkout (Row Level Security, idempotency keys), and launch, CPU and leak profiling on device with Instruments. 115 tests |
-| **[RTLS: Offline-first Location Sync SDK](https://github.com/devzahirul/Offline_first_location_sync_Mobile)** | iOS · Android · Flutter · RN | Modular telemetry SDK: GPS collection, an offline queue that loses no data, WebSocket real-time sync, pick-only-what-you-need modules |
-| **[SwiftHilt](https://github.com/devzahirul/swift_hilt)** | Swift | Dependency injection library that is DAG-aware and inspired by Hilt: scopes, graph validation, test overrides |
-| **[AsyncSwiftyNetworking](https://github.com/devzahirul/AsyncSwiftyNetworking)** | Swift | async/await networking layer: typed endpoints, retries, interceptors, fully tested |
-| **[PlaceAlertMe](https://github.com/devzahirul/PlaceAlertMe)** | iOS | Background geofencing that still delivers alerts after the app is killed |
-| **[TDD High-Performance E-commerce](https://github.com/devzahirul/TDDHighPerformance-ecommerceSwiftui)** | iOS | Test-driven SwiftUI with a focus on rendering performance |
-| **[Attendance HR (Android)](https://github.com/devzahirul/AttendenceHRAndroid)** | Android | Compose + clean architecture, multi-module, CI |
+| Project | Platforms | What it demonstrates | Screenshots / Video |
+|---|---|---|---|
+| **[ChatApp (ConvoKit): Native Chat SDK](https://github.com/devzahirul/ConvoKit)**<br>Source currently private | iOS · Android · Flutter (iOS bridge) | Backend-agnostic SDK with native SwiftUI and Jetpack Compose UIs. Actor / coroutine-based offline outbox, SQLite caching and message search, direct and group chat, invitations, streaming AI, and Supabase RLS. Flutter wraps the native iOS SDK. | <a href="assets/chatapp/README.md"><img src="assets/chatapp/ios-inbox.png" width="100" alt="ChatApp iOS inbox preview"></a><br>[Screenshots](assets/chatapp/README.md) · [Video](https://github.com/devzahirul/devzahirul/raw/refs/heads/main/assets/chatapp/convo-walkthrough.mp4) |
+| **[KinBeacon: Family Safety & Parental Controls](https://github.com/devzahirul/KinBeacon-iOS)** | iOS · Supabase | 30-module SwiftUI app in Swift 6 strict concurrency. Battery-aware background location and safe places, Apple Screen Time schedules with four extensions, check-ins and SOS, APNs remote commands, and a durable SwiftData outbox. Parent and child device pairing with RLS-protected family data. | <a href="https://devzahirul.github.io/KinBeacon-iOS/#experience"><img src="https://raw.githubusercontent.com/devzahirul/KinBeacon-iOS/main/docs/screenshots/01-parent-map.png" width="100" alt="KinBeacon family map preview"></a><br>[Screenshots / live gallery](https://devzahirul.github.io/KinBeacon-iOS/#experience) |
+| **[FlowMoney: Offline-first Personal Finance](https://github.com/devzahirul/FlowMoney-iOS)** | iOS · Supabase | 16-module SwiftUI app in Swift 6 strict concurrency. Offline ledger sync that preserves edits during in-flight uploads, deterministic recurring transactions, exact integer-based money calculations, budgets and analytics, Supabase RLS, 100+ tests, and CI/CD to TestFlight. | <a href="https://github.com/devzahirul/FlowMoney-iOS/tree/main/docs/screenshots"><img src="https://raw.githubusercontent.com/devzahirul/FlowMoney-iOS/main/docs/screenshots/light-02-home.png" width="100" alt="FlowMoney dashboard preview"></a><br>[Screenshots](https://github.com/devzahirul/FlowMoney-iOS/tree/main/docs/screenshots) |
+| **[NovaShop: Offline-first E-commerce](https://github.com/devzahirul/NovaShop-iOS)** | iOS · Supabase | 18-module SwiftUI app in Swift 6 strict concurrency. Local-first cart with state-based sync and reconciliation, a transactional server checkout (Row Level Security, idempotency keys), and launch, CPU and leak profiling on device with Instruments. 115 tests | [Screenshots](https://github.com/devzahirul/NovaShop-iOS/tree/main/docs/screenshots) |
+| **[RTLS: Offline-first Location Sync SDK](https://github.com/devzahirul/Offline_first_location_sync_Mobile)** | iOS · Android · Flutter · RN | Modular telemetry SDK: GPS collection, an offline queue that loses no data, WebSocket real-time sync, pick-only-what-you-need modules | — |
+| **[SwiftHilt](https://github.com/devzahirul/swift_hilt)** | Swift | Dependency injection library that is DAG-aware and inspired by Hilt: scopes, graph validation, test overrides | — |
+| **[AsyncSwiftyNetworking](https://github.com/devzahirul/AsyncSwiftyNetworking)** | Swift | async/await networking layer: typed endpoints, retries, interceptors, fully tested | — |
+| **[PlaceAlertMe](https://github.com/devzahirul/PlaceAlertMe)** | iOS | Background geofencing that still delivers alerts after the app is killed | — |
+| **[TDD High-Performance E-commerce](https://github.com/devzahirul/TDDHighPerformance-ecommerceSwiftui)** | iOS | Test-driven SwiftUI with a focus on rendering performance | — |
+| **[Attendance HR (Android)](https://github.com/devzahirul/AttendenceHRAndroid)** | Android | Compose + clean architecture, multi-module, CI | — |
 
 ---
 
