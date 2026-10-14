@@ -1,20 +1,36 @@
-# Md. Zahirul Islam — Senior iOS Engineer
+# Md. Zahirul Islam — Senior Mobile Engineer
 
-I build, improve and ship native iOS apps with **Swift, SwiftUI and UIKit**. I bring **10+ years in mobile engineering**, including remote product development, Android experience, and hands-on work across architecture, testing, performance and releases.
+**iOS · Android · Flutter · React Native**
 
-**Open to remote senior iOS roles, long-term contracts and focused client projects.**
+I bring **10+ years in mobile engineering**, combining commercial app delivery with native and cross-platform development, architecture, testing, performance and release work.
+
+**Open to remote senior mobile roles, long-term contracts and focused freelance projects.**
 
 Currently at **LYNKTO** · Previously remote with **UgoRound Australia** · Dhaka, Bangladesh (UTC+6)
 
-[Discuss a role or project on LinkedIn](https://www.linkedin.com/in/zahirul-ios/) · [Portfolio website](https://portfolio-website-three-blue-88.vercel.app/)
+[Discuss a role or project](https://www.linkedin.com/in/zahirul-ios/) · [Portfolio website](https://portfolio-website-three-blue-88.vercel.app/)
 
-### Where I can help
-- Build SwiftUI and UIKit features, modernize existing apps, and integrate APIs and SDKs.
-- Investigate crashes, data races, memory leaks and performance bottlenecks.
-- Design offline storage, synchronization, real-time messaging and background location behavior.
-- Improve automated tests, CI/CD and App Store delivery.
+## Platform expertise with evidence
 
-My public work below includes upstream fixes in **Kingfisher** and **Firefox for iOS**, alongside my own libraries and mobile projects.
+| Platform | Engineering focus | Work you can review |
+|---|---|---|
+| **iOS — Swift, SwiftUI, UIKit** | Features, concurrency, persistence, memory and release engineering | [Commercial delivery](CASE_STUDIES.md#case-01), [merged upstream fixes](CASE_STUDIES.md#case-06), [FlowMoney](https://github.com/devzahirul/FlowMoney-iOS) |
+| **Android — Kotlin, Jetpack Compose** | Native UI, background behavior and reusable architecture | [UgoRound location work](CASE_STUDIES.md#case-02), [Attendance HR](https://github.com/devzahirul/AttendenceHRAndroid) |
+| **Flutter — Dart, Riverpod** | Modular Clean Architecture, design systems and testable repositories | [Flutter Task Manager](https://github.com/devzahirul/flutter_task_manager), [case study](CASE_STUDIES.md#case-03) |
+| **React Native — TypeScript, Expo** | Shared UI, server/client state and native integration | [Four-app portfolio suite](CASE_STUDIES.md#case-04), [public native bridge](https://github.com/devzahirul/Offline_first_location_sync_Mobile/tree/main/rtls-react-native) |
+
+## Six engineering case studies
+
+[Read the complete case studies →](CASE_STUDIES.md) · [Download the portfolio PDF](assets/mobile-engineering-case-studies.pdf)
+
+1. **Commercial iOS & Android delivery** — reusable UI, navigation, testing and production maintenance at LYNKTO.
+2. **Background location & geo-alerting** — movement-aware geofence checks and remote mobile delivery for UgoRound.
+3. **Flutter architecture** — Riverpod, local packages, Material 3 and optional Firebase repositories.
+4. **React Native app suite** — four fixture-backed demos with shared foundations, state boundaries and testing tools.
+5. **RTLS native SDK & integration** — location, persistence and synchronization with Flutter/React Native bridges.
+6. **Merged open-source fixes** — concurrency, cache I/O and memory management in Kingfisher and Firefox for iOS.
+
+Each case explains the problem, my contribution, technical choices, tradeoffs, outcome and evidence. Commercial work and portfolio demos are identified explicitly.
 
 ---
 
@@ -102,7 +118,7 @@ Selected commercial apps I worked on for clients and employers:
 
 **iOS:** Swift 6 · SwiftUI · UIKit · Swift Concurrency · Combine · Core Data / SwiftData · SPM modularization · WidgetKit · Extensions · StoreKit
 **Android:** Kotlin · Jetpack Compose · Coroutines / Flow · Hilt · Room · WorkManager · multi-module Gradle
-**Cross-platform:** Flutter
+**Cross-platform:** Flutter · Dart · Riverpod · React Native · TypeScript · Expo · TanStack Query · Zustand
 **Quality & delivery:** XCTest / swift-testing · JUnit · snapshot & UI tests · TDD · GitHub Actions · Fastlane · SwiftLint / ktlint
 
 ---
