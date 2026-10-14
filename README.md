@@ -20,35 +20,38 @@ My public work below includes upstream fixes in **Kingfisher** and **Firefox for
 
 ## Open-source contributions
 
-These PRs were merged upstream after review by the maintainers.
+Selected fixes in established iOS projects:
 
-**[Firefox for iOS](https://github.com/mozilla-mobile/firefox-ios)** (Mozilla)
-- [#34675](https://github.com/mozilla-mobile/firefox-ios/pull/34675) **Memory leak:** fixed a `BoolSetting` retain cycle that leaked `AppSettingsTableViewController`
+- **[Kingfisher #2539](https://github.com/onevcat/Kingfisher/pull/2539):** fixed a task-cancellation data race in `SessionDataTask.forceCancel()`.
+- **[Kingfisher #2556](https://github.com/onevcat/Kingfisher/pull/2556):** removed a redundant file-existence lookup when reading disk-cache metadata. Both changes are credited in the [8.11.0 release notes](https://github.com/onevcat/Kingfisher/releases/tag/8.11.0).
+- **[Firefox for iOS #34675](https://github.com/mozilla-mobile/firefox-ios/pull/34675):** fixed a `BoolSetting` retain cycle leaking `AppSettingsTableViewController` and added a regression test.
+
+<details>
+<summary>More upstream pull requests</summary>
+
 - [#34569](https://github.com/mozilla-mobile/firefox-ios/pull/34569) **Widgets:** the widget now waits for tab restoration before it closes private tabs, which fixes a state race
 - [#34809](https://github.com/mozilla-mobile/firefox-ios/pull/34809) **Dead code:** removed unused `TabManager` code that Periphery flagged
 - [#34568](https://github.com/mozilla-mobile/firefox-ios/pull/34568) **Logging:** separated how fatal and non-fatal logs are reported
 - [#34553](https://github.com/mozilla-mobile/firefox-ios/pull/34553) **Tests:** telemetry tests now compare objects by identity (`===`) instead of equality
-
-**[Kingfisher](https://github.com/onevcat/Kingfisher)** (Swift's most popular image downloading and caching library)
-- [#2539](https://github.com/onevcat/Kingfisher/pull/2539) **Concurrency:** fixed a data race in `SessionDataTask.forceCancel()`
 - [#2541](https://github.com/onevcat/Kingfisher/pull/2541) **Concurrency:** fixed a data race on `RetrievingContext.propagationErrors`
 - [#2561](https://github.com/onevcat/Kingfisher/pull/2561) **Memory:** the image view is now released while its download is still in progress
-- [#2556](https://github.com/onevcat/Kingfisher/pull/2556) **Performance:** disk cache lookups now take a single metadata syscall
 - [#2540](https://github.com/onevcat/Kingfisher/pull/2540) **Bug fix:** disk caching now works when the image URL path contains `@`
+
+</details>
 
 ---
 
-## Selected engineering projects
+## Selected public projects
 
-Explore the code, architecture notes and available screenshots. These are my own projects; commercial applications are listed separately below.
+Explore my libraries and app projects below. Commercial applications are listed separately.
 
 | Project | Platforms | What it demonstrates | Screenshots / Video |
 |---|---|---|---|
-| **[KinBeacon: Family Safety & Parental Controls](https://github.com/devzahirul/KinBeacon-iOS)** | iOS · Supabase | 30-module SwiftUI app in Swift 6 strict concurrency. Battery-aware background location and safe places, Apple Screen Time schedules with four extensions, check-ins and SOS, APNs remote commands, and a durable SwiftData outbox. Parent and child device pairing with RLS-protected family data. | <a href="https://devzahirul.github.io/KinBeacon-iOS/#experience"><img src="https://raw.githubusercontent.com/devzahirul/KinBeacon-iOS/main/docs/screenshots/01-parent-map.png" width="100" alt="KinBeacon family map preview"></a><br>[Screenshots / live gallery](https://devzahirul.github.io/KinBeacon-iOS/#experience) |
 | **[FlowMoney: Offline-first Personal Finance](https://github.com/devzahirul/FlowMoney-iOS)** | iOS · Supabase | 16-module SwiftUI app in Swift 6 strict concurrency. Offline ledger sync that preserves edits during in-flight uploads, deterministic recurring transactions, exact integer-based money calculations, budgets and analytics, Supabase RLS, 100+ tests, and CI/CD to TestFlight. | <a href="https://github.com/devzahirul/FlowMoney-iOS/tree/main/docs/screenshots"><img src="https://raw.githubusercontent.com/devzahirul/FlowMoney-iOS/main/docs/screenshots/light-02-home.png" width="100" alt="FlowMoney dashboard preview"></a><br>[Screenshots](https://github.com/devzahirul/FlowMoney-iOS/tree/main/docs/screenshots) |
 | **[NovaShop: Offline-first E-commerce](https://github.com/devzahirul/NovaShop-iOS)** | iOS · Supabase | 18-module SwiftUI app in Swift 6 strict concurrency. Local-first cart with state-based sync and reconciliation, a transactional server checkout (Row Level Security, idempotency keys), and launch, CPU and leak profiling on device with Instruments. 115 tests | <a href="https://github.com/devzahirul/NovaShop-iOS/tree/main/docs/screenshots"><img src="https://raw.githubusercontent.com/devzahirul/NovaShop-iOS/main/docs/screenshots/light-home.png" width="100" alt="NovaShop home screen preview"></a><br>[Screenshots](https://github.com/devzahirul/NovaShop-iOS/tree/main/docs/screenshots) |
 | **[SwiftHilt](https://github.com/devzahirul/swift_hilt)** | Swift | Dependency injection library that is DAG-aware and inspired by Hilt: scopes, graph validation, test overrides | — |
 | **[AsyncSwiftyNetworking](https://github.com/devzahirul/AsyncSwiftyNetworking)** | Swift | async/await networking layer: typed endpoints, retries, interceptors, automated tests | — |
+| **[RTLS: Offline-first Location Sync SDK](https://github.com/devzahirul/Offline_first_location_sync_Mobile)** | iOS · Android · Flutter · RN | Modular telemetry SDK: GPS collection, a persistent offline queue, WebSocket real-time sync, pick-only-what-you-need modules | — |
 | **[Attendance HR (Android)](https://github.com/devzahirul/AttendenceHRAndroid)** | Android | Compose + clean architecture, multi-module, CI | — |
 
 <details>
@@ -56,8 +59,8 @@ Explore the code, architecture notes and available screenshots. These are my own
 
 | Project | Platforms | What it demonstrates | Screenshots / Video |
 |---|---|---|---|
-| **[ChatApp (ConvoKit): Native Chat SDK](https://github.com/devzahirul/ConvoKit)**<br>Source currently private | iOS · Android · Flutter (iOS bridge) | Backend-agnostic SDK with native SwiftUI and Jetpack Compose UIs. Actor / coroutine-based offline outbox, SQLite caching and message search, direct and group chat, invitations, streaming AI, and Supabase RLS. Flutter wraps the native iOS SDK. | <a href="assets/chatapp/README.md"><img src="assets/chatapp/ios-inbox.png" width="100" alt="ChatApp iOS inbox preview"></a><br>[Screenshots](assets/chatapp/README.md) · [Video](https://github.com/devzahirul/devzahirul/raw/refs/heads/main/assets/chatapp/convo-walkthrough.mp4) |
-| **[RTLS: Offline-first Location Sync SDK](https://github.com/devzahirul/Offline_first_location_sync_Mobile)** | iOS · Android · Flutter · RN | Modular telemetry SDK: GPS collection, a persistent offline queue, WebSocket real-time sync, pick-only-what-you-need modules | — |
+| **ChatApp (ConvoKit): Native Chat SDK**<br>Source currently private | iOS · Android · Flutter (iOS bridge) | Backend-agnostic SDK with native SwiftUI and Jetpack Compose UIs. Actor / coroutine-based offline outbox, SQLite caching and message search, direct and group chat, invitations, streaming AI, and Supabase RLS. Flutter wraps the native iOS SDK. | <a href="assets/chatapp/README.md"><img src="assets/chatapp/ios-inbox.png" width="100" alt="ChatApp iOS inbox preview"></a><br>[Screenshots](assets/chatapp/README.md) · [Video](https://github.com/devzahirul/devzahirul/raw/refs/heads/main/assets/chatapp/convo-walkthrough.mp4) |
+| **[KinBeacon: Family Safety & Parental Controls](https://devzahirul.github.io/KinBeacon-iOS/#experience)**<br>Source currently private | iOS · Supabase | 30-module SwiftUI app in Swift 6 strict concurrency. Battery-aware background location and safe places, Apple Screen Time schedules with four extensions, check-ins and SOS, APNs remote commands, and a durable SwiftData outbox. Parent and child device pairing with RLS-protected family data. | [Screenshots / live gallery](https://devzahirul.github.io/KinBeacon-iOS/#experience) |
 | **[PlaceAlertMe](https://github.com/devzahirul/PlaceAlertMe)** | iOS | Background geofencing and location-based alerts | — |
 | **[TDD High-Performance E-commerce](https://github.com/devzahirul/TDDHighPerformance-ecommerceSwiftui)** | iOS | Test-driven SwiftUI with a focus on rendering performance | — |
 
